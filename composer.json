@@ -1,0 +1,12 @@
+{
+    "name": "vlink3000/events-php",
+    "type": "project",
+    "license": "MIT",
+    "config": {
+        "secure-http": false
+    },
+    "require": {
+        "php": "^7.1",
+        "myclabs/php-enum": "^1.7"
+    }
+}
